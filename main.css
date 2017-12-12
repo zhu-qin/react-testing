@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.side-panel {
+  width: 25%;
+  border: 1px solid black;
+  height: 100vh;
+}
